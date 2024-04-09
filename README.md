@@ -26,6 +26,3 @@ A "Sold Out" badge will be displayed next to the movie's title in the movie list
 
 # Author
 This project was contributed by Eric Choge.
-
-# License
-This project is licensed under the ISC License.
